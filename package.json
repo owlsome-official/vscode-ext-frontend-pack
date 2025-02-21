@@ -1,0 +1,63 @@
+{
+  "name": "frontend-pack",
+  "displayName": "Frontend Pack by Owlsome",
+  "description": "A pack of extension for Frontend.",
+  "publisher": "owlsome-official",
+  "author": {
+    "name": "Owlsome"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/owlsome-official"
+  },
+  "icon": "images/icon.png",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "EliverLara.andromeda",
+    "bang.antd-snippets",
+    "jrr997.antd-docs",
+    "astro-build.astro-vscode",
+    "formulahendry.auto-rename-tag",
+    "aaron-bond.better-comments",
+    "antfu.browse-lite",
+    "Codeium.codeium",
+    "ryanluker.vscode-coverage-gutters",
+    "rid9.datetime",
+    "dsznajder.es7-react-js-snippets",
+    "dbaeumer.vscode-eslint",
+    "mhutchie.git-graph",
+    "donjayamanne.githistory",
+    "oderwat.indent-rainbow",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "VisualStudioExptTeam.intellicode-api-usage-examples",
+    "xabikos.JavaScriptSnippets",
+    "yzhang.markdown-all-in-one",
+    "equinusocio.vsc-material-theme-icons",
+    "ahmadalli.vscode-nginx-conf",
+    "softwareape.numbermonger",
+    "doggy8088.quicktype-refresh",
+    "christian-kohler.path-intellisense",
+    "esbenp.prettier-vscode",
+    "mechatroner.rainbow-csv",
+    "natqe.reload",
+    "humao.rest-client",
+    "bennycode.sort-everything",
+    "jock.svg",
+    "bradlc.vscode-tailwindcss",
+    "antfu.vite",
+    "vitest.explorer",
+    "tomoki1207.pdf",
+    "naumovs.color-highlight",
+    "wmaurer.change-case",
+    "Zignd.html-css-class-completion",
+    "Tyriar.lorem-ipsum",
+    "christian-kohler.npm-intellisense",
+    "YoavBls.pretty-ts-errors"
+  ]
+}
